@@ -27,7 +27,7 @@ import { ref } from 'vue'
 const value1 = ref(0)
 const value2 = ref(0)
 const value3 = ref(0)
-const value4 = ref(0)
+const value4 = ref(50)
 const value5 = ref(0)
 
 const formatTooltip = (val: number) => {
